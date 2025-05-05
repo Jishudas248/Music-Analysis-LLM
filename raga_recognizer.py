@@ -1,7 +1,7 @@
 """
 Raga Recognition from MP4 Audio
-Author: Your Name
-Date: 2024-06-XX
+Author: Ashutosh Das
+Date: 2025-05-05
 
 Dependencies:
 - librosa
